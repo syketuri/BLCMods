@@ -40,7 +40,7 @@ Note that there are a few things especially affected by this:
    the mission's nerfed a bit.
  * **Let There Be Light** (Captain Scarlett DLC): The elevator
    you have to wait for before ascending to the lighthouse level
-   has been speeded up quite a bit, which obviously makes that
+   has been sped up quite a bit, which obviously makes that
    mini-arena easier.
 
 This mod contains a section kindly donated by Gronp, specifically:
@@ -86,12 +86,12 @@ be sped up a bit but didn't seem worth the effort:
  * The little train car in 3:10 To Kaboom could be faster, but
    I didn't want to speed it up since you technically have to
    zip over to the other side to stop it.
- * Various elements of Bloodwing's fight could be speeded up
- * Terramorphous's spawning sequence could be speeded up
+ * Various elements of Bloodwing's fight could be sped up
+ * Terramorphous's spawning sequence could be sped up
  * Brick could move faster when going to open the door, prior to
    moonshot attack.
  * Hacked Overseer movement speed could probably be sped up.
-   (Its laser-cutting phase *is* speeded up, though.)  My initial
+   (Its laser-cutting phase *is* sped up, though.)  My initial
    attempts at doing so didn't work, though.
  * Fight in Control Core Angel can drag a bit if you're quick
  * Might be nice to speed up the crate pickups in Toil and Trouble
